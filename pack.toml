@@ -1,0 +1,13 @@
+name = "modpack"
+author = "Solariity & Kapsikkum"
+version = "0.0.1"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "068c5135e908fdfc2b5ed54cbffc51772f655d58af3bc53d1cfaed07aae4db3e"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.172"
