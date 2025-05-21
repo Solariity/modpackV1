@@ -223,6 +223,11 @@ hash = "93794a68c7b365ebe9d5f672a041a1e99b6d8157e79666a3cfaeec6d790e352a"
 metafile = true
 
 [[files]]
+file = "mods/fzzy-config.pw.toml"
+hash = "7c66defddbd128f245433e61c5bf4350be7debcf21b216f36cfe81a9017b3d24"
+metafile = true
+
+[[files]]
 file = "mods/geckolib.pw.toml"
 hash = "629b53312afe295222bc721338a3189844157971767e377316492068c453abf4"
 metafile = true
@@ -259,7 +264,7 @@ metafile = true
 
 [[files]]
 file = "mods/kotlin-for-forge.pw.toml"
-hash = "0a983d1515e1713d1a0ae7738091909101c368be2726a446e4ca29c62fe555c2"
+hash = "5bc824e369b9a085c7381f768356ce19c062d1b81e2302149684df62c60a16c8"
 metafile = true
 
 [[files]]
@@ -283,6 +288,11 @@ hash = "462c0bffff6af0f4ef1711f363e9b9a96e90a77fe6e8a087e6864a0ac2a3f1f8"
 metafile = true
 
 [[files]]
+file = "mods/oracle-index.pw.toml"
+hash = "9fb5d40354c86b79d41c7b82430469b59d5421d1970738e00d9e7e1dfcbcd0f3"
+metafile = true
+
+[[files]]
 file = "mods/oritech.pw.toml"
 hash = "f9f190d32044b21f3704cab6c3a0ff4590130f289bbd9514c193f27bbc5e1cdb"
 metafile = true
@@ -300,6 +310,11 @@ metafile = true
 [[files]]
 file = "mods/pneumaticcraft-repressurized.pw.toml"
 hash = "89b3a0475bb6cc51fcd04be10557bad10b5ac3e8eaca771e19141e631e14fb2f"
+metafile = true
+
+[[files]]
+file = "mods/simply-swords.pw.toml"
+hash = "6328ca202b88bb097d03a263806104036aa20dcc2dd5e1a99ee0b20d007d1f2f"
 metafile = true
 
 [[files]]
