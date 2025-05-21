@@ -243,8 +243,18 @@ hash = "9186bc9e84ea344724e547e07520fea62cfea2fb13076bca3c409de644624c6a"
 metafile = true
 
 [[files]]
+file = "mods/jade.pw.toml"
+hash = "e64ecb726e09cec46a58f44d73fcf9a9c6634ac2c08e0224d3c24ed95c053b29"
+metafile = true
+
+[[files]]
 file = "mods/jei.pw.toml"
 hash = "648dccdc0f056fd44095f398653311e34c4bd675d6a27f50bd9796c6415d1c40"
+metafile = true
+
+[[files]]
+file = "mods/journeymap.pw.toml"
+hash = "c093c66d1a50df5faf4d0161e4fccca5d50add850e3b4ec787f4fa5827acdfc3"
 metafile = true
 
 [[files]]
