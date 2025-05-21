@@ -43,6 +43,11 @@ hash = "6d3a1c92eee4dd671253c41ec000ae48064a33c45263d6adce5cad466395169d"
 metafile = true
 
 [[files]]
+file = "mods/ars-creo.pw.toml"
+hash = "66b4f55088bbe3837e230e94fd2fc42b1b1553e8e15c64fc899f21a6887a1963"
+metafile = true
+
+[[files]]
 file = "mods/ars-nouveau.pw.toml"
 hash = "fe7ec9c5ceffb4eed7292e174c2d8434083e02c564e347a433ea04066cca2f47"
 metafile = true
@@ -199,7 +204,7 @@ metafile = true
 
 [[files]]
 file = "mods/curios.pw.toml"
-hash = "650d83f19ef2c073e57dfc087226fe029c0aa6d12cfdd57a091666a216bb5d15"
+hash = "f92e7a06645e41ea1934dc420eb2772edb1708c0d71cb427baef8cf753acb934"
 metafile = true
 
 [[files]]
@@ -265,6 +270,16 @@ metafile = true
 [[files]]
 file = "mods/kotlin-for-forge.pw.toml"
 hash = "5bc824e369b9a085c7381f768356ce19c062d1b81e2302149684df62c60a16c8"
+metafile = true
+
+[[files]]
+file = "mods/lendercataclysm.pw.toml"
+hash = "68d2f3a2192ee8f742572ecf736c287ba3d172cd6e81e429ffba2d9d1b6462fd"
+metafile = true
+
+[[files]]
+file = "mods/lionfish-api.pw.toml"
+hash = "3d5d4c97ece8d1470d785fbffb44c1f17ca406931d08dd0cfd5d77745a956979"
 metafile = true
 
 [[files]]
