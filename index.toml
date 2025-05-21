@@ -10,8 +10,18 @@ hash = "70743439137808f1d50fa0b2203d392cccf24a1751aa328201e4274260a52800"
 metafile = true
 
 [[files]]
+file = "mods/architectury-api.pw.toml"
+hash = "6d3a1c92eee4dd671253c41ec000ae48064a33c45263d6adce5cad466395169d"
+metafile = true
+
+[[files]]
 file = "mods/cobblemon.pw.toml"
 hash = "e3cb1eb238192071af93f764e3ff2c493f4f437802bb56273f664bafdea13f1d"
+metafile = true
+
+[[files]]
+file = "mods/geckolib.pw.toml"
+hash = "629b53312afe295222bc721338a3189844157971767e377316492068c453abf4"
 metafile = true
 
 [[files]]
@@ -22,6 +32,21 @@ metafile = true
 [[files]]
 file = "mods/lithostitched.pw.toml"
 hash = "2a9d257e1db5afac622e62073ca5cf56796f7aed5e52ad59e7f9585e1ab0f1c9"
+metafile = true
+
+[[files]]
+file = "mods/oritech.pw.toml"
+hash = "f9f190d32044b21f3704cab6c3a0ff4590130f289bbd9514c193f27bbc5e1cdb"
+metafile = true
+
+[[files]]
+file = "mods/owo-lib.pw.toml"
+hash = "ee35392cd74464af3b668fac4356b6e0415be59c21c09f257fb5c83d1b01a0fe"
+metafile = true
+
+[[files]]
+file = "mods/stitch.pw.toml"
+hash = "f9e13b44a817b078be83092f2a5e4aa3dc13bcce428101b52159a2703798a1ed"
 metafile = true
 
 [[files]]
