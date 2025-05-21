@@ -5,6 +5,14 @@ file = "README.md"
 hash = "1d2ed9b61a70231f033fcdfbfa22bd6c2cd9fb38f398e11e2b928a5a85046c54"
 
 [[files]]
+file = "global_packs/required_data/AllTheMons Release 2.3.zip"
+hash = "fe6e3fbf4d9bd079ed20b3d5665487db14571493975cc7b657d86edbf590c445"
+
+[[files]]
+file = "global_packs/required_data/Angel_Islands_1.0.1.zip"
+hash = "b709ca09d23e49a4f6b316ad79277a10acbbb01e8eb6c9219ca246b1353d073c"
+
+[[files]]
 file = "mods/a-man-with-plushies.pw.toml"
 hash = "45a4e0d77ff931eb44ee04ef60452ef629f9269673a9cb707b2846b368a6f2c1"
 metafile = true
